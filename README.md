@@ -17,5 +17,7 @@ https://www.kaggle.com/datasets/altavish/boston-housing-dataset
  
  ### The models that are used in this NoteBook:
  1- Linear Regression
+ 
  2-Random forest Regression
+ 
  3-XGBRegressor

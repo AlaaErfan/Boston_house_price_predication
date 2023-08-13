@@ -1,5 +1,6 @@
 # Boston_house_price_predication
-This notebook code performs house price prediction using various regression models on the Boston House Price dataset.
+- my 3rd task as machine learning intern at sync interns
+- This notebook code performs house price prediction using various regression models on the Boston House Price dataset.
 
 
 ## Dataset used 
